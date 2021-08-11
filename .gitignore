@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Local
+**/test
+**/.vscode
+**/.pytest_cache
+**/__pycache__
